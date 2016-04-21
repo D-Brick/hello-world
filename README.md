@@ -1,8 +1,8 @@
 # hello-world
-Hello eyeryone!
+Hello everyone!
 
 This is Deng's first git repository.
-I like Web and IOS.
+I like every thing funny;
 
 
 
